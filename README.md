@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @passive-radio
 - 👀 I’m interested in munching on delicious sushi
-- 🌱 I’m currently learning bio-physics
+- 🌱 I’m currently learning biophysics
 - 💞️ I’m looking to collaborate on blah blah blah
 - 📫 How to reach me -> via Twitter @eltubuyaki or email srccreator[at]gmail.com
 
