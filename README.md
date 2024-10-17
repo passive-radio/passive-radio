@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @passive-radio
-- 👀 I’m interested in munching on delicious sushi!
-- 🌱 I’m currently learning Molecular Dynamics Simulation and Machine Learning.
-- 💞️ I’m looking to collaborate on blah blah blah.
-- 📫 How to reach me -> via Twitter: @eltubuyaki or email: yudaiokubo[at]gmail.com
 
 <!-- ---
 
